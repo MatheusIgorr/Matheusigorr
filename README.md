@@ -1,6 +1,6 @@
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm Matheus,an Developer Web :Computer: from Brazil who is passionate about technologies and innovation
+I'm Matheus,an Developer Web :computer: from Brazil who is passionate about technologies and innovation
 
 ### ⚡ Technologies
 Talk to me about
