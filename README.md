@@ -1,21 +1,48 @@
-## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+# Nome da Action
+name: Snake Game
 
-I'm Matheus,an Developer Web :computer: from Brazil who is passionate about technologies and innovation
+# Controlador do tempo que será feita a atualização dos arquivos
+on:
+  schedule:
+    # Será atualizado a cada 5 horas
+    - cron: "0 */5 * * *"
 
-### ⚡ Technologies
-Talk to me about
-- Web development-**HTML/CSS,Javascript**
-- Back-end-**Python/MySQL**
-- Scrum Foudantion
+  # Permite executar manualmente na lista de Actions (utilizado para testes de build)
+  workflow_dispatch:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+# Regras
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
 
+    # Verifica o repositório, para que seu job possa acessá-lo
+      - uses: actions/checkout@v2
 
+    # Repositório que será utilizado para gerar os arquivos
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: nomeUsuario # Substitua 'nomeUsuario' pelo seu nome de usuário do GitHub
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
+    # Exibe o status do git
+      - run: git status
 
+    # Para enviar as atualizações
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
-<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+    # Publica os arquivos na branch 'output'
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
