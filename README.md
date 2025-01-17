@@ -5,7 +5,6 @@ I'm Matheus, Dev Front-End from Brazil who is passionate about technologies and 
 
 ### ⚡ Technologies
 Talk to me about
-- Mobile application development using **Flutter**
 - Web development-**HTML/CSS,Javascript**
 - Backend development-**Firebase,SQL**
 - Data Analytics -**Python**
