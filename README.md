@@ -1,6 +1,6 @@
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm Matheus,an App Developer :iphone: from India who is passionate about technologies and innovation
+I'm Matheus, Dev Front-End from Brazil who is passionate about technologies and innovation
 
 
 ### ⚡ Technologies
