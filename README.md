@@ -6,8 +6,8 @@ I'm Matheus, Dev Front-End from Brazil who is passionate about technologies and 
 ### ⚡ Technologies
 Talk to me about
 - Web development-**HTML/CSS,Javascript**
-- Backend development-**Firebase,SQL**
-- Data Analytics -**Python**
+- Backend development-**JAVA,SQL**
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
