@@ -8,7 +8,7 @@ Apaixonado por **tecnologia, inovação e criar experiências web incríveis**.
 ### 🚀 O que eu construo
 
 - 🌐 **Desenvolvimento Web:** Sites semânticos, responsivos e acessíveis usando  
-  **HTML5, CSS3 (Flexbox & Grid) e JavaScript (ES6+)**  
+  **HTML5, CSS3 (Flexbox & Grid) , JavaScript (ES6+) Typescript e React**  
 - ⚙️ **Backend:** APIs robustas e bancos de dados com **Java** e **SQL**
 
 ---
