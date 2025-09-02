@@ -75,9 +75,3 @@ Git, VSCode, GitHub, Supabase, Postman
 > “Código é como humor. Quando você precisa explicar, é ruim.” – Cory House
 
 ---
-
-### 💡 Extras que você pode adicionar
-- Badges de habilidades (React, TS, Node, GitHub Actions)  
-- Certificados ou conquistas  
-- GIFs mostrando projetos funcionando  
-
