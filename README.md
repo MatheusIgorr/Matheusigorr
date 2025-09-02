@@ -44,8 +44,8 @@ Git, VSCode, GitHub, Supabase, Postman
 
 ### 🎨 Projetos Recentes
 - **Sistema de Gerenciamento de Produtos:** CRUD completo com filtros por categoria e busca em tempo real (HTML, CSS, JS, Supabase)  
-- **Celular 3D Interativo:** Simulação de um smartphone com apps funcionais e animações (HTML, CSS, JS)  
-- **Jogo Estilo Caça-Níquel:** Temática Minecraft Hunger Games com interatividade e design no Figma  
+- **Parallax Anime Fate e suas trilogias, com camadas e carrosel dinâmico (Html,Css e Js) 
+- **Sistema bancário em Java 8 , utilizando JavaFX
 
 ---
 
