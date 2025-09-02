@@ -1,32 +1,40 @@
-## Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px" /> Eu sou o **Matheus**
+## 👋 Olá! Eu sou o **Matheus Igor**
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px" />  
 
-**Desenvolvedor Front-End** do Brasil 🇧🇷  
-Apaixonado por **tecnologia, inovação e criar experiências web incríveis**.
-
----
-
-### 🚀 O que eu construo
-
-- 🌐 **Desenvolvimento Web:** Sites semânticos, responsivos e acessíveis usando  
-  **HTML5, CSS3 (Flexbox & Grid) , JavaScript (ES6+) Typescript e React**  
-- ⚙️ **Backend:** APIs robustas e bancos de dados com **Java** e **SQL**
+**Desenvolvedor Front-End & Apaixonado por tecnologia**  
+Do Brasil 🇧🇷 | Criando experiências web interativas e inovadoras  
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 💻 Sobre mim
+- 🌱 Sempre aprendendo e aprimorando minhas habilidades em **React, TypeScript e Java**  
+- 🚀 Focado em **desenvolvimento web moderno**, interfaces intuitivas e soluções eficientes  
+- 🎮 Amante de tecnologia, games e criatividade no desenvolvimento  
+
+---
+
+### 🚀 Habilidades Técnicas
+
+**Frontend:**  
+HTML5, CSS3 (Flexbox & Grid), JavaScript (ES6+), TypeScript, React  
+
+**Backend:**  
+APIs RESTful, Java, SQL  
+
+**Ferramentas & DevOps:**  
+Git, VSCode, GitHub, Supabase, Postman  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </div>
 
 ---
 
-### 📈 Estatísticas no GitHub
-
+### 📊 Estatísticas no GitHub
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=MatheusIgorr&show_icons=true&theme=radical" />
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusIgorr&layout=compact&theme=radical" />
@@ -34,22 +42,42 @@ Apaixonado por **tecnologia, inovação e criar experiências web incríveis**.
 
 ---
 
-### 🎬 Momentos divertidos codando
+### 🎨 Projetos Recentes
+- **Sistema de Gerenciamento de Produtos:** CRUD completo com filtros por categoria e busca em tempo real (HTML, CSS, JS, Supabase)  
+- **Celular 3D Interativo:** Simulação de um smartphone com apps funcionais e animações (HTML, CSS, JS)  
+- **Jogo Estilo Caça-Níquel:** Temática Minecraft Hunger Games com interatividade e design no Figma  
 
+---
+
+### 🎬 Momentos Divertidos Codando
 <p align="center">
-  <img src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" alt="GIF de código 1" width="280" style="border-radius:12px; box-shadow: 0 0 15px #58a6ff;" />
-  <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" alt="GIF de código 2" width="280" style="border-radius:12px; box-shadow: 0 0 15px #58a6ff;" />
+  <img src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width="280" style="border-radius:12px; box-shadow: 0 0 15px #58a6ff;" />
+  <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="280" style="border-radius:12px; box-shadow: 0 0 15px #58a6ff;" />
 </p>
 
 ---
 
-### 📬 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusigorr)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matheusigorr)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusIgorr)
+### 📫 Vamos nos conectar
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheusigorr">
+    <img src="https://img.shields.io/badge/LinkedIn-MatheusIgorr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/matheusigorr">
+    <img src="https://img.shields.io/badge/Twitter-@MatheusIgorr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/MatheusIgorr">
+    <img src="https://img.shields.io/badge/GitHub-MatheusIgorr-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<p align="center"><em>“Código é como humor. Quando você precisa explicar, é ruim.” – Cory House</em></p>
+> “Código é como humor. Quando você precisa explicar, é ruim.” – Cory House
+
+---
+
+### 💡 Extras que você pode adicionar
+- Badges de habilidades (React, TS, Node, GitHub Actions)  
+- Certificados ou conquistas  
+- GIFs mostrando projetos funcionando  
 
